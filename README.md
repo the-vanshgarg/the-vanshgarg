@@ -105,18 +105,22 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-vanshgarg&theme=dark)](https://git.io/streak-stats)-->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-vanshgarg&theme=dark)](https://git.io/streak-stats) -->
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=the-vanshgarg&theme=dark)](https://github.com/the-vanshgarg)  -->
 
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=the-vanshgarg&theme=github) -->
 
-![](https://github-readme-stats.vercel.app/api?username=the-vanshgarg&theme=blue-green&hide_border=true&include_all_commits=true&show_icons=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=the-vanshgarg&theme=blue-green&hide_border=true&include_all_commits=true&show_icons=true&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vanshgarg&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=7) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=the-vanshgarg&theme=blue-green&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=the-vanshgarg&theme=blue-green&hide_border=true) -->
 
 
 <!-- ![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif) -->
+
+![the-vanshgarg's Stats](https://github-readme-stats.vercel.app/api?username=the-vanshgarg&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![the-vanshgarg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-vanshgarg&theme=vision-friendly-dark&hide_border=false)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
